@@ -1,2 +1,9 @@
-- 👋 Hi, I’m @Cube-Cb / Zafar Abduraimov.
-- 👀 I’m interested in Html, Css, JavaScript and React.
+Header
+
+About me
+
+Latest YouTube Videos
+
+Languages and Tools
+
+follow me
